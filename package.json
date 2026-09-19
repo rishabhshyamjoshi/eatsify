@@ -1,0 +1,22 @@
+{
+  "name": "de-kettlecafe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "website-scraper": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "oxlint": "^1.71.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1",
+    "prettier": "^3.0.0"
+  }
+}
