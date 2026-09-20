@@ -5392,7 +5392,7 @@ class ESvideoPopup {
 });
 // source --> https://andtea.com/wp-content/themes/andtea/assets/js/scripts.js?ver=1.5
 console.log(
-  "%c ❤️  Made By ES design studio ❤️ ",
+  "%c ❤️  Made By RJ Industries ❤️ ",
   "background:#ffe800;padding:5px 15px;border-radius:5px; color:#000000;",
 );
 
